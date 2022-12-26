@@ -13,7 +13,7 @@
       <li><a href="http://localhost/market/gallery.php">Gallery</a></li> 
       <li><a href="http://localhost/market/help.php">Help</a></li>
       <li><a href="http://localhost/market/about.php">About</a></li>
-      <li><a href="http://localhost/market/COURS1.php">Sign in</a></li>
+      <li><a href="http://localhost/market/COURS1.php">sing up</a></li>
      </ul>
     
  <form class="search-form">
